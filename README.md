@@ -4,7 +4,7 @@ A simple, real-time bookmark manager built with Next.js (App Router), Supabase, 
 
 ## Live URL
 
-> **Deployed on Vercel:** _(URL will be available after publishing)_
+> **Deployed on Vercel:** https://smart-bookmark-one-eta.vercel.app/
 
 ## Features
 
